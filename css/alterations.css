@@ -17,6 +17,9 @@ a#foot-link {
     color: inherit;
     text-decoration: none;
 }
+a#head-link :link, :visited {
+    color: inherit;
+}
 a#foot-link:hover {
     color: #AEB6BF;
 }
