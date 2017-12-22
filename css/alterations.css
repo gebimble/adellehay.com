@@ -1,0 +1,22 @@
+/*!
+ * Additions made to existing css.
+ * Adelle & Joe - December 2017
+ */
+
+a#head-link {
+    text-decoration: none;
+}
+a#head-link :link, :visited {
+    color: white;
+}
+a#head-link:hover {
+    color: #AEB6BF;
+}
+
+a#foot-link {
+    color: inherit;
+    text-decoration: none;
+}
+a#foot-link:hover {
+    color: #AEB6BF;
+}
